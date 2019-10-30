@@ -21,6 +21,6 @@
     "nodeadmin": "^0.1.2",
     "pdf-parse": "^1.0.8",
     "pdf2json": "^1.1.7",
-    "sequelize": "^4.38.0"
+    "sequelize": "^5.15.1"
   }
 }
