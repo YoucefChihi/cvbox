@@ -7,7 +7,7 @@
     "dev": "DEBUG=talent-campain:* npm start"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "compression": "^1.7.3",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
